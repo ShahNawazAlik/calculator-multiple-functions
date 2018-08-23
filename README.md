@@ -1,1 +1,1 @@
-# calculator-multiple-functions
+# calculator with multiple functions, sum , average and product
