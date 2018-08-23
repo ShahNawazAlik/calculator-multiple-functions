@@ -1,1 +1,3 @@
-# calculator with multiple functions, sum , average and product
+# multi-function-calculator
+
+https://hadiakhan785.github.io/multi-function-calculator/
