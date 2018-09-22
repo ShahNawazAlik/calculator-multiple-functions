@@ -1,3 +1,3 @@
-# multi-function-calculator
+A calculator project , which can add numbers, can give average of numbers and can product numbers.
 
-https://hadiakhan785.github.io/multi-function-calculator/
+ https://shahnawazalik.github.io/calculator-multiple-functions/
